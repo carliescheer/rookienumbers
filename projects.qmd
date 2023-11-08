@@ -2,8 +2,55 @@
 title: "Projects"
 ---
 
-## Project 1
+## ACC Basketball
 
+```{r}
+#| label: load-packages
+#| include: false
+
+library(tidyverse)
+library(googlesheets4)
+
+```
+
+```{r}
+#| label: load-csvs
+#| include: false
+
+CBB_Projected_Wins <- read_sheet('https://docs.google.com/spreadsheets/d/1vTJlU2XPd0cXQr2zILR3L5X3UdjKfUSQej9Dw6Rh6k4/edit#gid=1570157309')
+CBB_Projected_Losses <- read_sheet('https://docs.google.com/spreadsheets/d/122fxXEl3Qg5KbXHkWZJESRCbPC0eWToklg-nE5Kk2PE/edit#gid=22288382')
+
+```
+
+```{r}
+#| label: multipliers
+#| echo: false
+
+CBB_Projected_Wins |>
+  filter(conference == "ACC") |>
+  group_by(team) |>
+  summarize(
+    sum_proj_win = sum(projected),
+    sum_act_win = sum(actual), 
+    win_multiplier = sum_act_win/sum_proj_win
+  ) |>
+  arrange(desc(win_multiplier)) 
+
+# bet ON team when projected to win = largest multiplier, bet AGAINST team when projected to win = smallest multiplier
+
+CBB_Projected_Losses |>
+  filter(conference == "ACC") |>
+  group_by(team) |>
+  summarize(
+    sum_proj_loss = sum(projected),
+    sum_act_loss = sum(actual), 
+    loss_multiplier = sum_act_loss/sum_proj_loss
+  ) |>
+  arrange(loss_multiplier)
+
+# bet ON team when projected to lose = smallest multiplier, bet AGAINST team when projected to lose = largest multiplier
+
+```
 
 
 ## Project 2

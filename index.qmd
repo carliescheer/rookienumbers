@@ -2,15 +2,16 @@
 title: "Welcome!"
 ---
 
-What better way to start this than with a disclaimer? I'm just going to put it out there early, because I'm really not in the mood for a lawsuit or for any sort of drama: **Everything I'm doing on here, analyzing, or writing is purely for my own enjoyment, for me to learn, and for me to gain real-world experience in a field that I find fascinating. I am not 21; I cannot legally bet. I'm not betting; I'm simply making predictions based on data and my observations. If I refer to something as a "bet," please know that I am not actually betting - I just don't have the energy to write "simulated bet" out every time. Take everything you see on here with a grain of salt; the reality is I'm probably no better than any person who randomly places bets based on which team mascot they think sounds cooler. Moral of the story - I'm just trying to have fun with this and learn, and hopefully you will as well. Thanks.**
-
-I typed out a longer version of that in the "About" section, so feel free to check that out if you're wondering who the person behind the website is. Anyway, the "About" portion is really just a CYA section. 
-
-Here's an overview of the site before I lose you: 
+## Overview of the site: 
 1. **About**: Get to know me and my goals.
 2. **Weekly Predictions**: Check here each week for my predictions for the upcoming week. I'll try to post these each Sunday for the upcoming week (Monday through the following Sunday); as a student, though, I can't make any promises. Basically, I'll be outlining bets I think are smart based on data I've collected or things I've observed. I'll probably stick to 10 or so games each week, but that number may be smaller or larger based on the week and based on how I decide to do things. 
 3. **Weekly Analysis**: This will be posted (hopefully) on the Monday after the week I've predicted ends. I'll just be discussing where I went right, and where I went wrong - probably much more of the latter. I'm basically looking at this as a documentation of what I've learned over time. 
-4. **Buzzer Beaters**: I'll add fun things to this section that don't apply to any of the other sections. It'll essentially just be the place where I mess around and include things that are either important to the college basketball world or random data I've analyzed. 
-5. **Archive**: This will be where I'll add the predictions and analysis from past weeks. 
+
+## How to understand the charts: 
+1. Predicted Wins: I've arranged the teams by a variable I've created called the win multiplier. Teams with a higher win multiplier are at the top, and that means I've decided (well, the data has) that if they are predicted to win, you'd probably be alright betting on them; as always, consider the other team as well. The opposite is true as well: if a team is at the bottom of the win multipliers, I would probably bet *against* the spread if they are predicted to win. 
+2. Predicted Losses: It's the same idea, except teams toward the top of the loss multiplier are teams that I would consider betting on the spread for if they're projected to lose. At the bottom are the teams who are projected to lose and also happen to lose pretty badly when they are. 
+3. I've organized this by conference because it's easier when I analyze the data. Also, please remember that I'm just a college kid doing this as a hobby so I don't have time to analyze every team. Right now I'm sticking to a few of the Power Five conferences. 
+
+In either case, just remember that either extreme is what we're looking at: stay away from mid-range teams. OH, and, a HUGE thing: account for outliers. If Duke is only projected to lose two times, their multiplier is probably going to be really skewed. That's something I'll mention in my weekly predictions if it comes up, but keep this in mind if you're looking for yourself as well. 
 
 And as always, remember that UNC sucks (GTHC) and Tom Izzo's teams are always overrated. Thanks for checking this out. 

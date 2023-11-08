@@ -89,8 +89,12 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./projects.html" rel="" target="" aria-current="page">
- <span class="menu-text">Projects</span></a>
+    <a class="nav-link" href="./weeklypredictions.html" rel="" target="">
+ <span class="menu-text">Weekly Predictions</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./weeklyanalysis.html" rel="" target="">
+ <span class="menu-text">Weekly Analysis</span></a>
   </li>  
 </ul>
             <div class="quarto-navbar-tools ms-auto">
@@ -109,7 +113,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#project-1" id="toc-project-1" class="nav-link active" data-scroll-target="#project-1">Project 1</a></li>
+  <li><a href="#acc-basketball" id="toc-acc-basketball" class="nav-link active" data-scroll-target="#acc-basketball">ACC Basketball</a></li>
   <li><a href="#project-2" id="toc-project-2" class="nav-link" data-scroll-target="#project-2">Project 2</a></li>
   <li><a href="#project-3" id="toc-project-3" class="nav-link" data-scroll-target="#project-3">Project 3</a></li>
   </ul>
@@ -135,8 +139,34 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="project-1" class="level2">
-<h2 class="anchored" data-anchor-id="project-1">Project 1</h2>
+<section id="acc-basketball" class="level2">
+<h2 class="anchored" data-anchor-id="acc-basketball">ACC Basketball</h2>
+<div class="cell">
+<div class="cell-output cell-output-stdout">
+<pre><code># A tibble: 14 × 4
+   team           sum_proj_win sum_act_win win_multiplier
+   &lt;chr&gt;                 &lt;dbl&gt;       &lt;dbl&gt;          &lt;dbl&gt;
+ 1 Georgia Tech          -10           -22          2.2  
+ 2 Pittsburgh            -24           -48          2    
+ 3 Virginia              -15.5         -30          1.94 
+ 4 Miami                 -22.5         -41          1.82 
+ 5 Virginia Tech         -27.5         -45          1.64 
+ 6 Clemson               -14.5         -22          1.52 
+ 7 Boston College        -13           -19          1.46 
+ 8 Duke                  -26.5         -38          1.43 
+ 9 Wake Forest           -19.5         -23          1.18 
+10 North Carolina        -19.5         -16          0.821
+11 Notre Dame             -9            -7          0.778
+12 NC State              -19.5         -13          0.667
+13 Syracuse              -29           -11          0.379
+14 Louisville             -9.5          -1          0.105</code></pre>
+</div>
+<div class="cell-output cell-output-stdout">
+<pre><code># A tibble: 0 × 4
+# ℹ 4 variables: team &lt;chr&gt;, sum_proj_loss &lt;dbl&gt;, sum_act_loss &lt;dbl&gt;,
+#   loss_multiplier &lt;dbl&gt;</code></pre>
+</div>
+</div>
 </section>
 <section id="project-2" class="level2">
 <h2 class="anchored" data-anchor-id="project-2">Project 2</h2>

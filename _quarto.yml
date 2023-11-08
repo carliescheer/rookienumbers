@@ -10,7 +10,10 @@ website:
         text: Home
       - href: tipoff.qmd
         text: About
-      - projects.qmd
+      - href: weeklypredictions.qmd
+        text: Weekly Predictions
+      - href: weeklyanalysis.qmd
+        text: Weekly Analysis
     tools:
       - icon: github
         href: https://github.com/carliescheer/rookienumbers

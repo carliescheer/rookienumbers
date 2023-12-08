@@ -1,6 +1,21 @@
 ---
 title: "Weekly Predictions"
 ---
+## Overview
+
+I've broken this down into the three conferences, and within each conference, I will put separate the games by their date. With that said, I have made the mistake in the past of attempting to predict too many games (in other words, I got too far ahead of myself). I don't have an exact number that I'm going for each week, but just note that it may change over time - what you see in my first week of predictions could be very different from the last week. 
+
+How to read my predictions: 
+The team name that is in **bold** is the team that I am saying to bet on. REMEMBER: I AM NOT ACTUALLY BETTING. I will then list the spread in terms of the team that is in bold. It is also important to note that because I am not placing anything, these will not be parlays. For anyone taking this advice (which is probably no one), you are welcome to create your own parlays; for tracking purposes, I'm just doing individual games. 
+
+Here is an example: 
+
+1/1/2024: 
+
+**Duke**/UNC, Duke -100.5
+Arizona/**Princeton**, Princeton +15.5
+
+In the first game, I am saying bet on Duke winning by over 100 vs. UNC. For the second, I'm saying bet on Princeton losing by less than 16 to Arizona. 
 
 ## Week 1: 11/6/2023 - 11/12/2023
 
@@ -18,22 +33,6 @@ Thanksgiving break for college students! Will continue data collection and then 
 
 ## Week 4: 11/27/2023 - 12/3/2023
 
-# Overview
-
-I've broken this down into the three conferences, and within each conference, I will put separate the games by their date. With that said, I have made the mistake in the past of attempting to predict too many games (in other words, I got too far ahead of myself). I don't have an exact number that I'm going for each week, but just note that it may change over time - what you see in my first week of predictions could be very different from the last week. 
-
-How to read my predictions: 
-The team name that is in **bold** is the team that I am saying to bet on. REMEMBER: I AM NOT ACTUALLY BETTING. I will then list the spread in terms of the team that is in bold. It is also important to note that because I am not placing anything, these will not be parlays. For anyone taking this advice (which is probably no one), you are welcome to create your own parlays; for tracking purposes, I'm just doing individual games. 
-
-Here is an example: 
-
-1/1/2024: 
-
-**Duke**/UNC, Duke -100.5
-Arizona/**Princeton**, Princeton +15.5
-
-In the first game, I am saying bet on Duke winning by over 100 vs. UNC. For the second, I'm saying bet on Princeton losing by less than 16 to Arizona. 
-
 # ACC 
 
 1. **Pittsburgh**/Missouri, Pitt -6.5
@@ -50,7 +49,7 @@ In the first game, I am saying bet on Duke winning by over 100 vs. UNC. For the 
 1. **Purdue**/Texas Southern, Purdue -31.5
 2. **Purdue**/Northwestern, Purdue -8.5
 
-# What's next? 
+## What's next? 
 
 Check back for my weekly analysis on the Monday after the current week ends. Also, my next week of predictions will be up sometime towards the end of the current week. 
 

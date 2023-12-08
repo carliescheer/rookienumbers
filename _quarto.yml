@@ -19,7 +19,7 @@ website:
         href: https://github.com/carliescheer/rookienumbers
 format:
   html:
-    theme: lux
+    theme: default
     toc: true
 
 editor: source
